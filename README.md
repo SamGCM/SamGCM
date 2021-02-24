@@ -10,5 +10,6 @@ Olá,
 <br/> 👯 Eu procuro colaborar com algo que possa impactar a vida das pessoa as ajudando.
 <br/> 🤔 Eu posso ajudar com CSS, JS, HTML, Python ou React.
 <br/> 📫 Entre em contato comigo por email ou mensagem.
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-SamuelCruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cruz-222a26188)](https://www.linkedin.com/in/samuel-cruz-222a26188) 
 
 [![Gmail Badge](https://img.shields.io/badge/-samuelcruz052@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelcruz052@gmail.com)](mailto:samuelcruz052@gmail.com)
