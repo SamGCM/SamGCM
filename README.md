@@ -1,16 +1,12 @@
-<img src='https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80' align='center' width=1200 height=500/>
-
-<br/><br/><br/>
-
 
 <a href="https://twitter.com/Samuel23379968">
-  <img align="left" alt="Samuel Twitter | Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Samuel Twitter | Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://t.co/k50vJwHRaw?amp=1">
-  <img align="left" alt="Samuel's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Samuel's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
 <a href="https://open.spotify.com/user/cexxh3386vtc902bqu8ve3p3t?si=81cf760583b549b2">
-  <img align="left" alt="Samuel's Spotify" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Samuel's Spotify"  width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br/><br/><br/><br/>
 Olá,
@@ -27,11 +23,6 @@ Olá,
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <br/>
-
-  
-  
-<img align="center" src="https://www.windaydigital.com/wp-content/uploads/2020/12/39998-web-development.gif" width="400" height="320"/>
-<br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samgcm)](https://github.com/anuraghazra/github-readme-stats)
 
